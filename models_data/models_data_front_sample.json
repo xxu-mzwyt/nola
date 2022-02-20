@@ -1,0 +1,35 @@
+{
+    "year": "2022", 
+    "make": "Acura", 
+    "model": "ILX", 
+    "options": ["Auto(AM-S8)", 4, 2.4], 
+    "id": 1
+}
+{
+    "year": "2022", 
+    "make": "Acura", 
+    "model": "TLX AWD", 
+    "options": ["Auto(S10)", 4, 2.0], 
+    "id": 2
+}
+{
+    "year": "2022", 
+    "make": "BMW", 
+    "model": "228i Gran Coupe", 
+    "options": ["Auto(S8)", 4, 2.0], 
+    "id": 3
+}  
+{
+    "year": "1999", 
+    "make": "Acura", 
+    "model": "ILX", 
+    "options": ["Auto(AM-S8)", 4, 2.4], 
+    "id": 4
+}    
+{
+    "year": "1999", 
+    "make": "GENESIS", 
+    "model": "G70 RWD", 
+    "options": ["Manual(M6)", 6, 3.6], 
+    "id": 5
+}

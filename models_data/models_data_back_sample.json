@@ -1,0 +1,32 @@
+{
+    "1" : {
+        "fuel_type": "gasoline", 
+        "mpg_city": "14.1316", 
+        "mpg_highway": "11.9871", 
+        "co2": "378"
+    },
+    "2" : {
+        "fuel_type": "gasoline", 
+        "mpg_city": "27.8749", 
+        "mpg_highway": "12.2132", 
+        "co2": "123"
+    },
+    "3" : {
+        "fuel_type": "gasoline", 
+        "mpg_city": "12.6848", 
+        "mpg_highway": "10.9874", 
+        "co2": "654"
+    },
+    "4" : {
+        "fuel_type": "electric", 
+        "mpg_city": "16.6546", 
+        "mpg_highway": "11.1236", 
+        "co2": "0"
+    },
+    "5" : {
+        "fuel_type": "CNG", 
+        "mpg_city": "13.6468", 
+        "mpg_highway": "10.0456", 
+        "co2": "987"
+    }
+}
