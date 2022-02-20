@@ -2,6 +2,8 @@
 
 nola is your down-to-earth guide to fuelling your sustainable journeys across a less-polluted planet.
 
+It is a route planner with consideration of real-time traffic, vehicle models, and road quality, oritented to provide the most fuel-efficiency and eco-friendly route.
+
 
 
 ## Launch Instruction:
