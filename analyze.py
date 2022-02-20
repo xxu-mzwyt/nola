@@ -3,7 +3,7 @@ import re
 import requests
 
 models_path = "models_data_back.json"
-Google_API_key = "Your API Key Here"
+Google_API_key = "AIzaSyA9GD-EAJ-CnXtq6OvIlBdaqKRyqv2Z_7Q"
 
 def fe(v):
   if v < 0:
@@ -68,7 +68,7 @@ def analyze(start, dest, car_id):
       start_lng = i["start_location"]["lng"]
       end_lat = i["end_location"]["lat"]
       end_lng = i["end_location"]["lng"]
-      url = f"https://maps.googleapis.com/maps/api/directions/json?origin={start_lat},{start_lng}&destination={end_lat},{end_lng}&departure_time=now&key=AIzaSyA9GD-EAJ-CnXtq6OvIlBdaqKRyqv2Z_7Q"
+      url = f"https://maps.googleapis.com/maps/api/directions/json?origin={start_lat},{start_lng}&destination={end_lat},{end_lng}&departure_time=now&key=" + Google_API_key
       
       payload = {}
       headers = {}
