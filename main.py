@@ -47,7 +47,7 @@ def main_interface():
             elif opt == "2":
                 st = input("   Please input your origin:\n   > ")
                 de = input("   Please input your destination:\n   > ")
-                analyze(st, de, carId)
+                analyze(st, de, str(carId))
                 continue
             else:
                 print("   See https://github.com/xxu-mzwyt/nola.")

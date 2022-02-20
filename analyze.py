@@ -3,7 +3,7 @@ import re
 import requests
 
 models_path = "models_data_back.json"
-Google_API_key = "AIzaSyA9GD-EAJ-CnXtq6OvIlBdaqKRyqv2Z_7Q"
+Google_API_key = "Your API key here"
 
 def fe(v):
   if v < 0:

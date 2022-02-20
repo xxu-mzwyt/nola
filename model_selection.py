@@ -20,7 +20,7 @@ def iterate_helper(mod_front, message, maker, mod):
             if i["year"].casefold().replace(' ', '') == message.casefold().replace(' ', ''):
                 if i["make"].casefold().replace(' ', '') == maker.casefold().replace(' ', ''):
                     if i["model"].casefold().replace(' ', '') == mod.casefold().replace(' ', ''):
-                        options = i["option"][0] + ", " + i["option"][2] + "cyl, " + i["option"][2] + "L"
+                        options = i["option"][0] + ", " + i["option"][1] + "cyl, " + i["option"][2] + "L"
                         print("   Confirm? (y/n)", i["year"], i["make"], i["model"]+",", options)
                         answer = input("   > ")
                         if(answer.casefold() == "y".casefold()): return int(i["id"])
