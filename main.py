@@ -50,7 +50,7 @@ def main_interface():
                 analyze(st, de, carId)
                 continue
             else:
-                print("opening doc")
+                print("   See https://github.com/xxu-mzwyt/nola.")
 
 
 if __name__ == '__main__':
