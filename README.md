@@ -12,5 +12,5 @@ Run `main.py`.
 
 ## Prerequisites
 
-- Python3
-- Requests
+- [Python3](https://www.python.org/downloads/)
+- [Requests](https://docs.python-requests.org/en/latest/)
